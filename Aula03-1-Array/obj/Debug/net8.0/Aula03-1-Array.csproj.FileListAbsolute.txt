@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.sourcelink.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\bin\Debug\net8.0\Aula03-1-Array.exe
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\bin\Debug\net8.0\Aula03-1-Array.deps.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\bin\Debug\net8.0\Aula03-1-Array.runtimeconfig.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\bin\Debug\net8.0\Aula03-1-Array.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\bin\Debug\net8.0\Aula03-1-Array.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\refint\Aula03-1-Array.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\Aula03-1-Array.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Aula03-1-Array\obj\Debug\net8.0\ref\Aula03-1-Array.dll
