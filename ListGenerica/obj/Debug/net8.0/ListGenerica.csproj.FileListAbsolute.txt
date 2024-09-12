@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\bin\Debug\net8.0\ListGenerica.exe
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\bin\Debug\net8.0\ListGenerica.deps.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\bin\Debug\net8.0\ListGenerica.runtimeconfig.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\bin\Debug\net8.0\ListGenerica.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\bin\Debug\net8.0\ListGenerica.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.sourcelink.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\refint\ListGenerica.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ListGenerica.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListGenerica\obj\Debug\net8.0\ref\ListGenerica.dll

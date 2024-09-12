@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\bin\Debug\net8.0\ListaDeLivros.exe
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\bin\Debug\net8.0\ListaDeLivros.deps.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\bin\Debug\net8.0\ListaDeLivros.runtimeconfig.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\bin\Debug\net8.0\ListaDeLivros.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\bin\Debug\net8.0\ListaDeLivros.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.sourcelink.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\refint\ListaDeLivros.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ListaDeLivros.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListaDeLivros\obj\Debug\net8.0\ref\ListaDeLivros.dll
