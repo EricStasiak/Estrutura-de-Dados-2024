@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\bin\Debug\net8.0\Vetores.exe
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\bin\Debug\net8.0\Vetores.deps.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\bin\Debug\net8.0\Vetores.runtimeconfig.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\bin\Debug\net8.0\Vetores.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\bin\Debug\net8.0\Vetores.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.sourcelink.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\refint\Vetores.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\Vetores.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\Vetores\obj\Debug\net8.0\ref\Vetores.dll
