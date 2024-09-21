@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.exe
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.deps.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.runtimeconfig.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.sourcelink.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\refint\ListasLinkadas.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadas\obj\Debug\net8.0\ref\ListasLinkadas.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.exe
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.deps.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.runtimeconfig.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.sourcelink.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\refint\ListasLinkadasCirculares.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\ListasLinkadasCirculares\obj\Debug\net8.0\ref\ListasLinkadasCirculares.dll
