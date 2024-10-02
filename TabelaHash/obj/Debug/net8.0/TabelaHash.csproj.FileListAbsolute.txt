@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\bin\Debug\net8.0\TabelaHash.exe
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\bin\Debug\net8.0\TabelaHash.deps.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\bin\Debug\net8.0\TabelaHash.runtimeconfig.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\bin\Debug\net8.0\TabelaHash.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\bin\Debug\net8.0\TabelaHash.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.sourcelink.json
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\refint\TabelaHash.dll
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.pdb
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\TabelaHash.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Eric\Estrutura de Dado em casa\Aula Git\Estrutura-de-Dados-2024\TabelaHash\obj\Debug\net8.0\ref\TabelaHash.dll
