@@ -1,0 +1,14 @@
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\bin\Debug\net8.0\ArvoresBasicas.exe
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\bin\Debug\net8.0\ArvoresBasicas.deps.json
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\bin\Debug\net8.0\ArvoresBasicas.runtimeconfig.json
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\bin\Debug\net8.0\ArvoresBasicas.dll
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\bin\Debug\net8.0\ArvoresBasicas.pdb
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ArvoresBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ArvoresBasicas.AssemblyInfoInputs.cache
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ArvoresBasicas.AssemblyInfo.cs
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ArvoresBasicas.csproj.CoreCompileInputs.cache
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ArvoresBasicas.dll
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\refint\ArvoresBasicas.dll
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ArvoresBasicas.pdb
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ArvoresBasicas.genruntimeconfig.cache
+C:\Users\427582\Documents\Estrutura de Dados\Atividades\ArvoresBasicas\obj\Debug\net8.0\ref\ArvoresBasicas.dll
