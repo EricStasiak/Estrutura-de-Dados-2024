@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExercicioTree
+namespace Company_Tree
 {
     public class Tree
     {
