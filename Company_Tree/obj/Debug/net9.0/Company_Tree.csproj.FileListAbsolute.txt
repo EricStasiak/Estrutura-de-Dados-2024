@@ -1,0 +1,14 @@
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\bin\Debug\net9.0\Company_Tree.exe
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\bin\Debug\net9.0\Company_Tree.deps.json
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\bin\Debug\net9.0\Company_Tree.runtimeconfig.json
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\bin\Debug\net9.0\Company_Tree.dll
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\bin\Debug\net9.0\Company_Tree.pdb
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\Company_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\Company_Tree.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\Company_Tree.AssemblyInfo.cs
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\Company_Tree.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\Company_Tree.dll
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\refint\Company_Tree.dll
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\Company_Tree.pdb
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\Company_Tree.genruntimeconfig.cache
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\Company_Tree\obj\Debug\net9.0\ref\Company_Tree.dll
