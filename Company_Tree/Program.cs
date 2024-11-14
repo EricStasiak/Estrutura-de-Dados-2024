@@ -1,4 +1,4 @@
-﻿﻿using ExercicioTree;
+﻿﻿using CompanyTree;
 
 Tree tree= new Tree();
 
