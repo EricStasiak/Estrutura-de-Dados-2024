@@ -1,0 +1,14 @@
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\bin\Debug\net9.0\AtividadeQuiz.exe
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\bin\Debug\net9.0\AtividadeQuiz.deps.json
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\bin\Debug\net9.0\AtividadeQuiz.runtimeconfig.json
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\bin\Debug\net9.0\AtividadeQuiz.dll
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\bin\Debug\net9.0\AtividadeQuiz.pdb
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\AtividadeQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\AtividadeQuiz.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\AtividadeQuiz.AssemblyInfo.cs
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\AtividadeQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\AtividadeQuiz.dll
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\refint\AtividadeQuiz.dll
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\AtividadeQuiz.pdb
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\AtividadeQuiz.genruntimeconfig.cache
+C:\Users\Eric\Documents\Estrutura_de_Dados_2024\Atividades\AtividadeQuiz\obj\Debug\net9.0\ref\AtividadeQuiz.dll
